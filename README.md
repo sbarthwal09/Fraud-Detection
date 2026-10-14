@@ -61,7 +61,7 @@ Fraud Detection/
 ├── fraud_detection.py              # Streamlit prediction app (entry point)
 ├── fraud_detection_pipeline.pkl    # Trained scikit-learn pipeline (joblib)
 ├── AIML Dataset.csv                # Dataset (not committed)
-├── requiremrnts.txt                # Python dependencies
+├── requirements.txt                # Python dependencies
 └── README.md
 ```
 
@@ -70,7 +70,7 @@ Fraud Detection/
 Requires Python 3.10+.
 
 ```powershell
-pip install -r requiremrnts.txt
+pip install -r requirements.txt
 pip install scikit-learn joblib        # also required, see note below
 ```
 
