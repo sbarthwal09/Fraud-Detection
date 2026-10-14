@@ -71,11 +71,7 @@ Requires Python 3.10+.
 
 ```powershell
 pip install -r requirements.txt
-pip install scikit-learn joblib        # also required, see note below
 ```
-
-> `requirements.txt` currently omits `scikit-learn` and `joblib`, which the notebook and
-> app need. Install them explicitly (or add them to the file).
 
 ### Train / analyze
 
