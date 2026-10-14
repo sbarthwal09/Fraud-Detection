@@ -1,0 +1,12 @@
+# Large dataset (redownload with kagglehub or place manually)
+AIML Dataset.csv
+
+# Kaggle / Jupyter caches
+.cache/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
